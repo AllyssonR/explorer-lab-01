@@ -29,7 +29,7 @@
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.profiles.windows": {
     "Git Bash": {
-      "source": "Git Bash"
+      "source": "Git zsh"
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
